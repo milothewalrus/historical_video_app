@@ -1,0 +1,14 @@
+moviepy==1.0.3
+wikipedia-api==0.7.1
+pygame==2.6.1
+ffmpeg-python==0.2.0
+decorator==4.4.2
+imageio==2.36.1
+imageio-ffmpeg==0.5.1
+numpy==2.2.0
+pillow==11.0.0
+proglog==0.1.10
+requests==2.32.3
+tqdm==4.67.1
+gtts
+matplotlib
